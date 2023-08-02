@@ -1,7 +1,7 @@
 # Task Manager
 [![GitHub](https://img.shields.io/github/license/AlissonRaphael/api_task_manager)](https://github.com/AlissonRaphael/api_task_manager/blob/main/LICENSE)
 
-Este repositório contém todos os arquivos de uma API voltada ao gerenciamento de tarefas de projetos. Inclui registro de contas para usuários com login, envio de e-mails e recuperação de senha. Os usuários cadastrados podem criar e gerenciar projetos e tarefas, além de anexar e enviar arquivos.
+This repository contains the implementation files for an API aimed at project management. Includes registration, login and password recovery for users. It has resources to register projects and tasks.
 
 ## Techs
 ![GithubPages Badge](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E)
@@ -13,16 +13,6 @@ Este repositório contém todos os arquivos de uma API voltada ao gerenciamento 
 ![GithubPages Badge](https://img.shields.io/badge/-Day.JS-000?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E)
 ![GithubPages Badge](https://img.shields.io/badge/-ESLint-000?style=flat-square&logo=eslint&logoColor=white&color=4B32C3)
 ![GithubPages Badge](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white&color=2496ED)
-
-## Api
-<p align="center">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_api.png">
-</p>
-
-## Database Relationship
-<p align="center">
-  <img width="70%" src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_relationship.png">
-</p>
 
 ## Contents
 - [Installation](#installation)
