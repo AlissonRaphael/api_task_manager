@@ -4,17 +4,15 @@
 Este repositório contém todos os arquivos de uma API voltada ao gerenciamento de tarefas de projetos. Inclui registro de contas para usuários com login, envio de e-mails e recuperação de senha. Os usuários cadastrados podem criar e gerenciar projetos e tarefas, além de anexar e enviar arquivos.
 
 ## Techs
-<p align="center">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_nodejs.jpg">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_javascript.jpg">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_adonisjs.jpg">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_postgres.jpg">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_redis.jpg">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_sentry.jpg">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_dayjs.jpg">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_docker_compose.jpg">
-  <img src="https://github.com/AlissonRaphael/api_task_manager/blob/main/.github/readme_eslint.jpg">
-</p>
+![GithubPages Badge](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E)
+![GithubPages Badge](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white&color=339933)
+![GithubPages Badge](https://img.shields.io/badge/-AdonisJS-000?style=flat-square&logo=adonisjs&logoColor=white&color=5A45FF)
+![GithubPages Badge](https://img.shields.io/badge/-PostgresSQL-000?style=flat-square&logo=postgresql&logoColor=white&color=4169E1)
+![GithubPages Badge](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis&logoColor=white&color=DC382D)
+![GithubPages Badge](https://img.shields.io/badge/-Sentry-000?style=flat-square&logo=sentry&logoColor=white&color=362D59)
+![GithubPages Badge](https://img.shields.io/badge/-Day.JS-000?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E)
+![GithubPages Badge](https://img.shields.io/badge/-ESLint-000?style=flat-square&logo=eslint&logoColor=white&color=4B32C3)
+![GithubPages Badge](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white&color=2496ED)
 
 ## Api
 <p align="center">
